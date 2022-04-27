@@ -24,7 +24,7 @@ python Arithmetic_main.py
 
 ### 使用样例
 
-![image-20220427192258565](C:\Users\萝卜CarryT.DESKTOP-2OP4C3A.000\AppData\Roaming\Typora\typora-user-images\image-20220427192258565.png)
+![image-20220427192258565](\src\image-20220427192258565.png)
 
 # 联系方式
 
