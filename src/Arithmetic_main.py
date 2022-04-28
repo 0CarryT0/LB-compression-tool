@@ -12,6 +12,9 @@ if __name__ == '__main__':
         if mode[0] == 'd':
             try:
                 ifn = input("| path of your file to decode:")
+                if ifn[-3:] != '.LB':
+                    print('!!!Please input true file path whose extension is *.LB!!!')
+                    continue
                 LB_decode(ifn)
             except:
                 print("\n| error!!!")
@@ -32,7 +35,7 @@ if __name__ == '__main__':
                 print('your compression ratio: {:.2f}%'.format(compression_ratio))
             break
         else:
-            print("Hey!!! print true mode!!!")
+            print("Hey!!! Input true mode!!!")
 
     print("\n------------------------------copy right: @BUAA_CARRYT-------------------------------")
     print("------If you find any bug or have suggestions, welcome to wechat me: Lb_CarryT-------")
