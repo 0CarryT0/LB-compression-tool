@@ -24,7 +24,7 @@ python Arithmetic_main.py
 
 ### 使用样例
 
-![image-20220427192258565](\src\image-20220427192258565.png)
+![image-20220427192258565](https://github.com/0CarryT0/LB-compression-tool/blob/main/src/image-20220427192258565.png)
 
 # 联系方式
 
